@@ -46,8 +46,8 @@ What do the following commands do:
 
 > > LS OPTIONS  
 `ls` lists non-hidden (ie. files that don't begin with a dot) items in a directory  
-`ls -a` includes hidden directory entries 
-`ls -l` displays directory entries in long format
+`ls -a` includes hidden directory entries  
+`ls -l` displays directory entries in long format  
 `ls -lh` uses unit suffixes for directory entry sizes when displaying in long format  
 `ls -lah` same as -lh but including hidden entries  
 `ls -t` sorts directory entries by time last modified  
