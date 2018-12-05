@@ -72,7 +72,8 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > the xargs command line utility allows for the easy and customized building of argument lists that can be passed into other command line utilities (particularly those that may not accept argument lists).  an example of playing all mp3 files in a directory can be given by:  
+`$ find . -iname "*.mp3" -print | xargs -0 -I mp3file mplayer mp3file`
 
  
 
