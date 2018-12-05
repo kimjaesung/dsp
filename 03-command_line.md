@@ -44,7 +44,7 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > LS OPTIONS  
+> > ls options  
 `ls` lists non-hidden (ie. files that don't begin with a dot) items in a directory  
 `ls -a` includes hidden directory entries  
 `ls -l` displays directory entries in long format  
@@ -59,7 +59,7 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> >  
+> >  more `ls` options  
 `ls -R` lists files recursively in subfolders  
 `ls -1` lists files one row per file  
 `ls -laSh` lists files in size order (with size suffixes)  
