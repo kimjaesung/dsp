@@ -24,7 +24,13 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 * ```pwd``` show current working directory path  
 * ```mkdir``` create a directory  
 * ```rmdir``` delete a directory  
-
+* ```touch <filename>``` createa file using ```touch``` command  
+* ```rm <filename>``` delete a file  
+* ```mv <filename> <newpath>``` renaming a file  
+* ```cp <orig-path\filename> <new-path>``` copy a file from one directory to another  
+* ```man <command>``` get manual pages for specified command
+* ```history``` get command line history  
+ 
 ---
 
 ### Q2.  List Files in Unix   
