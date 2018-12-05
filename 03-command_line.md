@@ -20,7 +20,7 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
->>  
+>>  CHEAT SHEET:
 * ```pwd``` show current working directory path  
 * ```mkdir``` create a directory  
 * ```rmdir``` delete a directory  
@@ -44,7 +44,14 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > LS OPTIONS  
+`ls` lists non-hidden (ie. files that don't begin with a dot) items in a directory  
+`ls -a` includes hidden directory entries 
+`ls -l` displays directory entries in long format
+`ls -lh` uses unit suffixes for directory entry sizes when displaying in long format  
+`ls -lah` same as -lh but including hidden entries  
+`ls -t` sorts directory entries by time last modified  
+`ls -Glp` colorizes long format results and adds a `/` at the end of entries that are themselves directories  
 
 ---
 
