@@ -23,8 +23,8 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 > >  CHEAT SHEET  
 * ```pwd``` show current working directory path  
 * ```mkdir``` create a directory  
-* ```rmdir``` delete a directory  
-* ```touch <filename>``` createa file using ```touch``` command  
+* ```rmdir``` delete an empty directory or ```rm -rf <directory>``` to delete a non-empty directory   
+* ```touch <filename>``` createss file using ```touch``` command  
 * ```rm <filename>``` delete a file  
 * ```mv <filename> <newpath>``` renaming a file  
 * ```cp <orig-path\filename> <new-path>``` copy a file from one directory to another  
