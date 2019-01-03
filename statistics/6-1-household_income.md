@@ -14,11 +14,11 @@ print('% below mean: ' + str(cdf.Prob(Mean(fs))*100))
 ```
 
 ```
-mean: 2929881.9121865327
+mean: 74278.70753118733
 median: 51226.45447894046
-skewness: 17.53971121043337
-pearsons skewness: 0.2285274006190828
-% below mean: 100.0
+skewness: 4.949920244429583
+pearsons skewness: 0.7361258019141782
+% below mean: 66.0005879566872
 ```
 
 assumed upper bound is likely higher than 1mm. could drastically increase skew (positively)
