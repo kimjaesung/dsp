@@ -16,4 +16,4 @@ thinkplot.Pmfs([pmf, biased])
 thinkplot.Config(xlabel='Number of children', ylabel='PMF')
 ```
 
-![chap3_1b](https://github.com/kimjaesung/dsp/blob/master/img/stats3_1a.png "")
+![chap3_1b](https://github.com/kimjaesung/dsp/blob/master/img/stats3_1b.png "")
