@@ -7,7 +7,7 @@ thinkplot.Pmf(pmf)
 thinkplot.Config(xlabel='Num children', ylabel='PMF')
 ```
 
-![chap3_1a](https://github.com/kimjaesung/dsp/blob/master/img/stats3_1.png "")
+![chap3_1a](https://github.com/kimjaesung/dsp/blob/master/img/stats3_1a.png "")
 
 ```
 bias = BiasPmf(pmf, label='bias')
