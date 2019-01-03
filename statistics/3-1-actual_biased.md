@@ -7,7 +7,7 @@ thinkplot.Pmf(pmf)
 thinkplot.Config(xlabel='Number of children', ylabel='PMF')
 ```
 
-![chap3_1a](../img/chap3_1.png "")
+![chap3_1a](https://github.com/kimjaesung/dsp/blob/master/img/stats3_1.png "")
 
 ```
 biased = BiasPmf(pmf, label='biased')
@@ -16,4 +16,4 @@ thinkplot.Pmfs([pmf, biased])
 thinkplot.Config(xlabel='Number of children', ylabel='PMF')
 ```
 
-![chap3_1b](../img/chap3_1a.png "")
+![chap3_1b](https://github.com/kimjaesung/dsp/blob/master/img/stats3_1a.png "")
