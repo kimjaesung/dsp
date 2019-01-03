@@ -26,5 +26,5 @@ std. error: 0.782724624248741
 con. interval: (1.2803919094553737, 3.5850023190341047)
 ```
 
-![chap8_2](https://github.com/kimjaesung/dsp/blob/master/img/stat8_2.png "")
+![chap8_2](https://github.com/kimjaesung/dsp/blob/master/img/stats8_2.png "")
 
